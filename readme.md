@@ -9,3 +9,5 @@ requirements.txt --> libraries
 nbook.ipynb --> notebook Jupyter
 
 main_code.py --> Python's code
+
+png's files --> files created by this script
